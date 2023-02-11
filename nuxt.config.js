@@ -12,12 +12,12 @@ export default {
       { charset: 'utf-8' },
       { httpEquiv: 'X-UA-Compatible', content: 'IE=edge' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Iteck - Multi-Purpose Vue.js Nuxt.js Template' },
-      { name: 'keywords', content: 'Vue Nuxtjs Template Iteck Multi-Purpose themeforest' },
+      { hid: 'description', name: 'description', content: 'Creazy Lab - Building The Future Creative' },
+      { name: 'keywords', content: 'Creazy Lab - Building The Future Creative' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'shortcut icon', sizes: '16x16', href: '/assets/img/fav.png' },
+      { rel: 'shortcut icon', sizes: '16x16', href: '/assets/img/Logo creazy lab 7.png' },
       { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap' },
       { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap' },
     ],
