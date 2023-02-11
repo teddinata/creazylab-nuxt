@@ -1,0 +1,86 @@
+{
+  "filters": [
+    { "title": "All", "filter": "all" },
+    { "title": "IT Consultation", "filter": ".consultation" },
+    { "title": "Website Development", "filter": ".website" },
+    { "title": "App Development", "filter": ".development" },
+    { "title": "UI/UX Design", "filter": ".design" },
+    { "title": "Cloud Service", "filter": ".cloud" }
+  ],
+  "projects": [
+    {
+      "filter": "website consultation",
+      "image": "/assets/img/portfolio1.png",
+      "title": "Rent House System",
+      "type": "IT Consultation, Website Development",
+      "details": "Development of a website for a real estate company that allows users to search for houses for rent.",
+      "tags": ["Consultation", "Web Development", "HTML/CSS", "PHP", "Laravel", "MySQL"],
+      "link": "https://griyakoscilacap.creazylab.id"
+    },
+    {
+      "filter": "website consultation",
+      "image": "/assets/img/undermarktapp2.png",
+      "title": "E-Commerce Platform",
+      "type": "Website Development, UI/UX Design",
+      "details": "E-commerce platform for the sale of products and services, with the possibility of creating a virtual store.",
+      "tags": ["Web Development","HTML/CSS","PHP", "Laravel", "Figma"],
+      "link": "https://undermarkt.creazylab.id"
+    },
+    {
+      "filter": "development",
+      "image": "/assets/img/appkos.png",
+      "title": "App Development for Kos Rent",
+      "type": "App Development",
+      "details": "Development of an application for the rental of houses for students.",
+      "tags": ["App Development","UI & UX Design","Android","Flutter", "Lumen"]
+    },
+    {
+      "filter": "website development consultation",
+      "image": "/assets/img/alquran.png",
+      "title": "Al-Quran App Indonesia",
+      "type": "website develoment, App Development",
+      "details": "Development of a website and mobile application for the Al-Quran Indonesia application.",
+      "tags": ["Web Development","App Development","UI & UX Design","Android", "Tailwind CSS", "Nuxt.JS"  ]
+    },
+    {
+      "filter": "cloud design",
+      "image": "/assets/img/projects/4.png",
+      "title": "Okpay E-Wallet Optimized",
+      "type": "SEO analysis",
+      "details": "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      "tags": ["SEO Analysis", "Content Strategy"]
+    },
+    {
+      "filter": "website development cloud",
+      "image": "/assets/img/projects/5.png",
+      "title": "e-Commerce Dashboard",
+      "type": "website design & develoment",
+      "details": "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      "tags": ["WordPress", "PHP", "HTML/CSS", "Figma"]
+    },
+    {
+      "filter": "design consultation",
+      "image": "/assets/img/projects/7.png",
+      "title": "Crypto Blockchain",
+      "type": "Data security",
+      "details": "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      "tags": ["Security", "Management", "Backup & Recovery"]
+    },
+    {
+      "filter": "cloud design",
+      "image": "/assets/img/projects/1.png",
+      "title": "Car Rental Dashboard",
+      "type": "UI/UX Design",
+      "details": "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      "tags": ["HTML/CSS", "Figma"]
+    },
+    {
+      "filter": "security cloud",
+      "image": "/assets/img/projects/2.png",
+      "title": "Encrypt Blockchain",
+      "type": "Data security, it consultation",
+      "details": "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      "tags": ["Data Security", "Python", "Data Backup"]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_5c128970"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_b783cbe2"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_2bf3c998"
+  },
+  {
+    "name": "page-404",
+    "path": "/page-404",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-404\\\\index.vue",
+    "chunkName": "pages/page-404/index",
+    "_name": "_9e50f48a"
+  },
+  {
+    "name": "page-about-2",
+    "path": "/page-about-2",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-about-2\\\\index.vue",
+    "chunkName": "pages/page-about-2/index",
+    "_name": "_e7495f7e"
+  },
+  {
+    "name": "page-career-details",
+    "path": "/page-career-details",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-career-details\\\\index.vue",
+    "chunkName": "pages/page-career-details/index",
+    "_name": "_88601124"
+  },
+  {
+    "name": "page-careers-5",
+    "path": "/page-careers-5",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-careers-5\\\\index.vue",
+    "chunkName": "pages/page-careers-5/index",
+    "_name": "_d2d2c414"
+  },
+  {
+    "name": "page-comming-soon-5",
+    "path": "/page-comming-soon-5",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-comming-soon-5\\\\index.vue",
+    "chunkName": "pages/page-comming-soon-5/index",
+    "_name": "_0888d8f2"
+  },
+  {
+    "name": "page-faq-5",
+    "path": "/page-faq-5",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-faq-5\\\\index.vue",
+    "chunkName": "pages/page-faq-5/index",
+    "_name": "_01982db5"
+  },
+  {
+    "name": "page-portfolio-5",
+    "path": "/page-portfolio-5",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-portfolio-5\\\\index.vue",
+    "chunkName": "pages/page-portfolio-5/index",
+    "_name": "_53f84bfa"
+  },
+  {
+    "name": "page-product-app",
+    "path": "/page-product-app",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-product-app\\\\index.vue",
+    "chunkName": "pages/page-product-app/index",
+    "_name": "_07d47660"
+  },
+  {
+    "name": "page-services-app",
+    "path": "/page-services-app",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-services-app\\\\index.vue",
+    "chunkName": "pages/page-services-app/index",
+    "_name": "_45935ae2"
+  },
+  {
+    "name": "page-shop-app",
+    "path": "/page-shop-app",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-shop-app\\\\index.vue",
+    "chunkName": "pages/page-shop-app/index",
+    "_name": "_6bc52877"
+  },
+  {
+    "name": "page-sign-in",
+    "path": "/page-sign-in",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-sign-in\\\\index.vue",
+    "chunkName": "pages/page-sign-in/index",
+    "_name": "_2188cf1e"
+  },
+  {
+    "name": "page-single-post-5",
+    "path": "/page-single-post-5",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-single-post-5\\\\index.vue",
+    "chunkName": "pages/page-single-post-5/index",
+    "_name": "_541fd926"
+  },
+  {
+    "name": "page-single-project-5",
+    "path": "/page-single-project-5",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-single-project-5\\\\index.vue",
+    "chunkName": "pages/page-single-project-5/index",
+    "_name": "_59cf89c5"
+  },
+  {
+    "name": "page-single-project-app",
+    "path": "/page-single-project-app",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\page-single-project-app\\\\index.vue",
+    "chunkName": "pages/page-single-project-app/index",
+    "_name": "_3da41859"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\portfolio.vue",
+    "chunkName": "pages/portfolio",
+    "_name": "_48fd8faa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\laragon\\\\www\\\\creazylab-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7bca6435"
+  }
+]
