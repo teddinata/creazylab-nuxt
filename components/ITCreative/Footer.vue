@@ -12,9 +12,9 @@
                 {{ footerData.text }}
               </div>
               <div class="social-links">
-                <a href="#">
+                <!-- <a href="#">
                   <i class="fab fa-facebook-f"></i>
-                </a>
+                </a> -->
                 <a href="#">
                   <i class="fab fa-twitter"></i>
                 </a>
@@ -23,6 +23,9 @@
                 </a>
                 <a href="#">
                   <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a href="https://jagoweb.com/" target="_blank">
+                  <img src="https://www.jagoweb.com/image/media/small/media_2109014358png" alt="web hosting murah gratis domain"/>
                 </a>
               </div>
             </div>

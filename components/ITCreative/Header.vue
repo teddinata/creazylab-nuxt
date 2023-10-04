@@ -37,17 +37,20 @@
                 Happy <br /> <span class="fw-bold"> Partners </span>
               </div>
               <div class="sponsers-content">
-                <a href="#">
+                <a href="https://kosan.online" target="_blank">
                   <img src="/assets/img/logo@2x.png" style="width:150px" alt="" />
                 </a>
-                <a href="#">
+                <a href="https://kosan.online" target="_blank">
                   <img src="/assets/img/logokosan2.png" style="width:150px" alt="" />
                 </a>
-                <a href="#">
+                <a href="https://mountcoco.com" target="_blank">
                   <img src="/assets/img/Logo MountCoco.png" style="width:150px" alt="" />
                 </a>
-                <a href="#">
+                <a href="https://undermarkt.creazylab.id" target="_blank">
                   <img src="/assets/img/undermarket logo.png" style="width:150px" alt="" />
+                </a>
+                <a href="https://jagoweb.com/" target="_blank">
+                  <img src="https://www.jagoweb.com/image/media/small/media_2109014358png" alt="web hosting murah gratis domain"/>
                 </a>
               </div>
             </div>
